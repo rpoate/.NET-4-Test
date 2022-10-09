@@ -21,7 +21,7 @@ namespace WinForms_Examples
                 CSSText = "BODY {font-family: Arial Unicode MS, Arial, Sans-Serif; border: none;} .courierText {font-family: courier;} .BlueBackground {background-color: blue; }",
                 LicenceKey = "YourLicenseKey",
                 LicenceKeyInlineSpelling = "InlineSpellingLicenseKey",
-                EnableInlineSpelling = true,
+                EnableInlineSpelling = false,
                 DefaultSpellingLanguage = "nl-NL",
                 CleanMSWordHTMLOnPaste = true,
                 FontSizesList = "8pt;10pt;12pt;16pt;22pt;",
